@@ -1,0 +1,14 @@
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\FiratObs.CourseRegistrationChecker.exe.config
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\FiratObs.CourseRegistrationChecker.exe
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\FiratObs.CourseRegistrationChecker.pdb
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\WebDriver.dll
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\WebDriver.Support.dll
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\WebDriver.xml
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\bin\Debug\WebDriver.Support.xml
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.Form1.resources
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.Properties.Resources.resources
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.csproj.GenerateResource.cache
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.csproj.CopyComplete
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.exe
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.pdb
+D:\PROJECTS\Crawlers\FiratObs.CourseRegistrationChecker\FiratObs.CourseRegistrationChecker\obj\Debug\FiratObs.CourseRegistrationChecker.csprojAssemblyReference.cache
